@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio[
+<!ELEMENT biblio (book*)>
+<!ELEMENT book (title, category,rating,price,author*)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT category(#PCDATA)>
+<!ELEMENT rating(#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT author (name)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST book year CDATA #REQUIRED>
+]>

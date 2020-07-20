@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE gender='F' ORDER BY emp_no;

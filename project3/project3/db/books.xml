@@ -1,0 +1,149 @@
+<biblio>
+	<author>
+	        <name>Smith</name>
+		<book year = "2019">
+			<title>Database systems</title>
+			<category>DB</category>
+			<rating>5</rating>
+			<price>1000</price>
+		</book>
+		<book year = "2018">
+			<title>Big data analytics</title>
+			<category>DB</category>
+			<rating>3.5</rating>
+			<price>400</price>
+		</book>
+		<book year = "2017">
+			<title>Introduction to Python</title>
+			<category>PL</category>
+			<rating>4.7</rating>
+			<price>300</price>
+		</book>
+		<book year = "2016">
+			<title>Introduction to R programming</title>
+			<category>PL</category>
+			<rating>3.2</rating>
+			<price>200</price>
+		</book>
+        <book year = "2015">
+			<title>Applied Mathematics</title>
+			<category>Science</category>
+			<rating>2.1</rating>
+			<price>100</price>
+		</book>
+	</author>
+	<author>
+	        <name>Jones</name>
+		<book year = "2019">
+			<title>Database systems</title>
+			<category>DB</category>
+			<rating>5</rating>
+			<price>1000</price>
+		</book>
+        <book year = "2017">
+            <title>The Theory of Relational Databases</title>
+            <category>DB</category>
+            <rating>3.8</rating>
+            <price>650</price>
+        </book>
+	</author>
+	<author>
+	        <name>James</name>
+		<book year = "2019">
+			<title>Database systems</title>
+			<category>DB</category>
+			<rating>5</rating>
+			<price>1000</price>
+		</book>
+		<book year = "2018">
+			<title>Pattern Recognition</title>
+			<category>Others</category>
+			<rating>5</rating>
+			<price>1000</price>
+		</book>
+        <book year = "2018">
+			<title>Linear Algebra</title>
+			<category>Science</category>
+			<rating>4.2</rating>
+			<price>800</price>
+		</book>
+		<book year = "2016">
+			<title>Applied Functional Analysis</title>
+			<category>Others</category>
+			<rating>2</rating>
+			<price>400</price>
+		</book>
+	</author>
+	<author>
+	        <name>Jeff</name>
+        <book year = "2018">
+            <title>Big data analytics</title>
+            <category>DB</category>
+            <rating>3.5</rating>
+            <price>400</price>
+        </book>
+        <book year = "2018">
+			<title>Pattern Recognition</title>
+			<category>Others</category>
+			<rating>5</rating>
+			<price>1000</price>
+		</book>
+        <book year = "2017">
+            <title>The Theory of Relational Databases</title>
+            <category>DB</category>
+            <rating>3.8</rating>
+            <price>650</price>
+        </book>
+		<book year = "2016">
+			<title>Introduction to R programming</title>
+			<category>PL</category>
+			<rating>3.2</rating>
+			<price>200</price>
+		</book>
+		<book year = "2013">
+			<title>Statistical Inference</title>
+			<category>Science</category>
+			<rating>5</rating>
+			<price>600</price>
+		</book>
+	</author>
+	<author>
+	  <name>Ted</name>
+	</author>
+	<author>
+	  	   <name>Eric</name>
+		<book year = "2019">
+            <title>Python Crash Course</title>
+            <category>PL</category>
+            <rating>4.7</rating>
+            <price>600</price>
+        </book>
+	</author>
+	<author>
+	  	   <name>Nathan</name>
+		<book year = "2017">
+          <title>C++: Programming Basics</title>
+            <category>PL</category>
+            <rating>3.6</rating>
+            <price>400</price>
+        </book>
+	</author>
+	<author>
+	  	   <name>Alice</name>
+		<book year = "2019">
+          <title>Hands-On Machine Learning</title>
+            <category>Others</category>
+            <rating>4.7</rating>
+            <price>750</price>
+        </book>
+	</author>
+	<author>
+	  	   <name>Albert</name>
+		<book year = "2018">
+           <title>AWS: Security Best Practices on AWS</title>
+            <category>Others</category>
+            <rating>2.7</rating>
+            <price>500</price>
+        </book>
+	</author>
+</biblio>
