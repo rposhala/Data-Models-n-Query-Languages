@@ -1,0 +1,2 @@
+# Data-Models-n-Query-Languages
+This repository includes implementation of all kinds of SQL queries including recursive SQL on employees DB, Implementation of XQuery on a private books.xml data and a small project on designing and implementing database schema for TinyHub complying to given requirements along with creation of Entity-Relationship Diagram for the designed schema. Additionally, it also has the applications and tools to implement the added .sql or .xq files.
